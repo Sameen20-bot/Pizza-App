@@ -5,7 +5,7 @@ import Order from "./Order";
 const App = () => {
   return (
     <div>
-      <h1>Padre Gino's - Order Now</h1>
+      <h1>Sameen Special Pizza - Order Now</h1>
       {/* <Pizza
         name="Beef Pepperoni"
         description="Pepperoni, mushrooms and cheese"
